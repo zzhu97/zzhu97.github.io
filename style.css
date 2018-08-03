@@ -1,4 +1,10 @@
 body {
-    font-family: "Calibri", "Arial", sans-serif;
+    font-family: "Arial", sans-serif;
     font-size: 14px;
+}
+
+#ghost {
+    color:white;
+    font-size:10px;
+    
 }
