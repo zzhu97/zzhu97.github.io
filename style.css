@@ -21,6 +21,7 @@ body {
 }
 .navbar a {
     float: left;
+    
 }
 /*.navbar a:hover {
     background-color: #ddd;
