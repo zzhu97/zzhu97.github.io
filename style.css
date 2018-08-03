@@ -6,7 +6,8 @@ body {
 .header {
     padding: 80px;
     text-align: center;
-    background-image:url("https://images.wagwalkingweb.com/media/breed/pembroke-welsh-corgi/appearance/pembroke-welsh-corgi.png?auto=compress&fit=max");
+    background-image: url("https://images.wagwalkingweb.com/media/breed/pembroke-welsh-corgi/appearance/pembroke-welsh-corgi.png?auto=compress&fit=max");
+    background-repeat: no-repeat;
     background: #dd3934;
     color: black;
 }
