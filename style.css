@@ -43,10 +43,9 @@ body {
     background: #333;
 }
 .footer a {
-    display: inline-block;
+    display: block;
     color: white;
     text-align: center;
     text-decoration: none;
     padding: 10px;
-    margin: 10px auto;
 }
