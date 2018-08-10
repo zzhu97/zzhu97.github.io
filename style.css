@@ -43,7 +43,7 @@ body {
     background: #333;
 }
 .footer a {
-    display: block;
+    display: inline-block;
     color: white;
     text-align: center;
     text-decoration: none;
