@@ -8,7 +8,6 @@ body {
     text-align: center;
     background-image: url("https://images.wagwalkingweb.com/media/breed/pembroke-welsh-corgi/appearance/pembroke-welsh-corgi.png");
     background-repeat: no-repeat;
-    /*background: #dd3934;*/
     color: black;
 }
 .header h1 {
@@ -30,4 +29,10 @@ body {
 .navbar a:hover {
     background-color: #ddd;
     color: black;
+}
+@media screen and (max-width: 400px) {
+    .navbar a {
+        float: none;
+        width: 100%;
+    }
 }
