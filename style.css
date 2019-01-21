@@ -2,6 +2,11 @@ body, html {
     height: 100%;
 }
 
+h1 {
+    font-family: "Nunito", sans-serif;
+    font-size: 5rem;
+}
+
 .corgi {
     background-image: url("corgi.png");
     height: 100%;
@@ -11,12 +16,20 @@ body, html {
     background-size: cover;
 }
 
-.logo {
-    background-color: black;
+.rounded-circle {
+    height: 200px;
 }
 
-.rounded-circle {
-    /*margin-top: 60px;*/
-    height: 200px;
-    
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.d-inline {
+    margin: 1rem;
+}
+
+.icons {
+    padding-top: 1rem;
 }
