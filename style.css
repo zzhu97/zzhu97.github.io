@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+}
+
+.corgi {
+    background-image: url("corgi.png");
+    height: 100%;
+
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.logo {
+    background-color: black;
+}
+
+.rounded-circle {
+    /*margin-top: 60px;*/
+    height: 200px;
+    
+}
